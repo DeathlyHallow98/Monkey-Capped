@@ -1,8 +1,7 @@
 # Monkey-Capped
 
 ## Project Description
-  Monkey-Capped was a game developed by Github users Thomas Lao(laothomas01) and Umair Khalid(DeathlyHallow98) for 2021's GMTK game jam. Given 2 days, we had to come up with a game that fit the theme of Joined Together. We decided on the idea of handicapped monkey joining together to help each other navigate the jungles. Our game was ranked 5400 out of 5700 entries. Not too bad for a first game jam.
-
+  Monkey-Capped was a game developed by Github users Thomas Lao(laothomas01) and Umair Khalid(DeathlyHallow98) for 2021's GMTK game jam. Given 2 days, we had to come up with a game that fit the theme of Joined Together. We decided on the idea of handicapped monkey joining together to help each other navigate the jungles.
 ## Game Summary
   Inspired by the buddhist proverb Speak No Evil, See No Evil, Hear No Evil,
   you play as three handicapped monkeys that must work together through treacherous jungles and cities
